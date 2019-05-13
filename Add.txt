@@ -2,4 +2,8 @@ rennsyu
 test
 qqqqqqq
 aaa
+<<<<<<< HEAD
 kkkkkk
+=======
+kkk
+>>>>>>> tuika
